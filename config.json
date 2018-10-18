@@ -1,0 +1,11 @@
+{
+    "CONFIG":{
+        "beggmail":"xxxxxxx",
+        "password":"xxxxxx",
+        "first_name":"xxxxxx",
+        "last_name":"xx",
+        "url":"https://shop.undefeated.com/account/register",
+        "accounts":"",
+        "IP":""
+    }
+}
